@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">IP検索</string>
+    <string name="result_title">検索結果</string>
+    <string name="action_settings">action_settings</string>
+    <drawable name="bkcolor">#00FF00</drawable>  
+</resources>
